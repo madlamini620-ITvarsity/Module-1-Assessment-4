@@ -1,0 +1,19 @@
+th{
+    font-weight: 800;
+    background-color: aquamarine;
+    color: brown;
+}
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: groove;
+    border-color: Helvetica, sans-serif;
+}
+h1{
+    font-family: serif;
+    color: brown
+}
+html{
+    background-color: green;
+}
